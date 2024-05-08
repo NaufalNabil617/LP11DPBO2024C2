@@ -1,6 +1,6 @@
 # LP11DPBO2024C2
 
-Saya Naufal N dengan NIM 2201090 mengerjakan soal LP 11 dalam Praktikum mata kuliah Desain dan Pemrograman Berbasis Objek, untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
+Saya Naufal Nabil Anugrah dengan NIM 2201090 mengerjakan soal LP 11 dalam Praktikum mata kuliah Desain dan Pemrograman Berbasis Objek, untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
 # Desain Program
 Program merupakan sebuah informasi mengenai informasi pasien rumah sakit yang dibuat menggunakan php dengan konsep mvp pada bagian model bertanggung jawab untuk mengolola data dan logika seperti create update dan delete, sementara view bertanggung jawab untuk menampilkan data yang ada dan presenter bertanggung jawab untuk memproses logika dari model ke view
